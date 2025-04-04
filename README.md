@@ -45,11 +45,13 @@ if ($fileList) {
 ```
 # Screens :
 
-![image](https://media.github.ibm.com/user/368686/files/fe3e396a-deb0-4fb3-8326-a403a4874af0)
+![image](https://github.com/user-attachments/assets/a1f25c97-1725-4909-9bf7-5e9b63232fb6)
+
 
 Run the script anywhere from the VM by pointing to the Aecorsoft tool log location (generally available at : C:\ProgramData\AecorsoftDataIntegrator\logs\ )
 
-![image](https://media.github.ibm.com/user/368686/files/8756a958-cd8f-4d62-a844-2fd2b77eac1b)
+![image](https://github.com/user-attachments/assets/25064c5c-6fdc-44a4-b12c-e0a8d56e3ad7)
+
 
 Shows multiple instance of the job failure (if any)
 
